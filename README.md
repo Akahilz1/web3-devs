@@ -134,4 +134,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [AndyNft](https://github.com/AndyNft)                           | [Sol_seeker](https://twitter.com/sol_seeker69)               | BMxjmodBAFXPmavCCrEJYAZkf8shrc4Jh9SJf4onyW8n | JS, TS, React, HTML/CSS, Rust, Python, MySQL | No
 | [loyecares](https://github.com/loyecares)                       | [OgoAbaye](https://twitter.com/OgoAbaye)                   | 7moMfzuZT6qC9CyFBPuGY14xN598F598FK5wcNcHbe4NoNfJ | Javascript, Typescript, react, Next.js                                                | Yes                 |
 | [e-mk](https://github.com/e-mk)                       | [ernestmkr](https://twitter.com/ernestmkr)                   | Fph8UuTEtaBhtHQiePrsz26SGvcFdUEQ4qdZmAx3z4Kv | Javascript, Typescript, Solana, Java, Rust                                                | Yes                 |
-| [akahilz](https://github.com/akahilz1)             | [akahilz](https://twitter.com/akahilz2)               | 3DbKWQhSuiGGbrm9xEsLLJvoG8hGYzPxUPouU1PSER4D   | Html, css ,js ,python ,solidity                                                                           | Yes                |
+
